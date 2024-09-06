@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heilonng23&label=Profile%20views&color=0e75b6&style=flat" alt="heilonng23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ibragimdotdev" target="blank"><img src="https://img.shields.io/twitter/follow/ibragimdotdev?logo=twitter&style=for-the-badge" alt="ibragimdotdev" /><img src="https://img.shields.io/twitter/follow/ibragimdotdev?logo=twitter&style=for-the-badge" alt="ibragimdotdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ibragimdotdev" target="blank"><img src="https://img.shields.io/twitter/follow/ibragimdotdev?logo=twitter&style=for-the-badge" alt="ibragimdotdev" /></a> </p>
 
 - 🔭 I’m currently working on **couple of projects**
 
